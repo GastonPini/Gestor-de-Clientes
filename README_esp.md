@@ -1,10 +1,11 @@
 # Gestor de clientes en Python
-Repositorio del proyecto completo del curso de Python.
+Proyecto final del curso de Python en Udemy.
 
-RoadMap:
+## RoadMap:
+```bash
 run.py -> menu.py -> herlpers.py
                   -> database.py -> config.py -> clientes.csv
-
+```
 
 ## Instalar las dependencias
 
