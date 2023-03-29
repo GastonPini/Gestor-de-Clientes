@@ -12,7 +12,7 @@ Este gestor almacena datos de clientes (DNI, nombre y apellido), con la posibili
 ## RoadMap de scripts:
 ```bash
 run.py -> menu.py -> herlpers.py
-                  -> database.py -> config.py -> clientes.csv
+       -> iu.py   -> database.py -> config.py -> customers.csv
 ```
 
 ## Instalar las dependencias

@@ -12,7 +12,7 @@ This manager stores customer data (ID, name and surname), with the possibility o
 ## Scripts RoadMap
 ```bash
 run.py -> menu.py -> herlpers.py
-                  -> database.py -> config.py -> customers.csv
+       -> iu.py   -> database.py -> config.py -> customers.csv
 ```
 
 ## Install the dependencies
