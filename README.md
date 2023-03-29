@@ -2,14 +2,14 @@
 Final project of the Python course in Udemy.
 This manager stores customer data (ID, name and surname), with the possibility of creating, modifying and deleting data.
 
-## Use:
+## Usage:
 
 * The DNI has two integers followed by a letter.
 * The name can have between 3 and 20 characters.
 * The last name can have between 2 and 20 characters.
 
 
-## RoadMap
+## Scripts RoadMap
 ```bash
 run.py -> menu.py -> herlpers.py
                   -> database.py -> config.py -> customers.csv

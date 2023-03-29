@@ -9,7 +9,7 @@ Este gestor almacena datos de clientes (DNI, nombre y apellido), con la posibili
 * El apellido puede tener entre 2 y 20 caracteres.
 
 
-## RoadMap:
+## RoadMap de scripts:
 ```bash
 run.py -> menu.py -> herlpers.py
                   -> database.py -> config.py -> clientes.csv
