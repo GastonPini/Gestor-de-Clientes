@@ -1,10 +1,11 @@
 # Customer manager in Python
 Final project of the Python course in Udemy.
 
-RoadMap:
+## RoadMap
+```bash
 run.py -> menu.py -> herlpers.py
                   -> database.py -> config.py -> customers.csv
-
+```
 
 ## Install the dependencies
 
